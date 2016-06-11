@@ -1,0 +1,89 @@
+﻿<Window x:Class="BendingCapacity.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BendingCapacity"
+		xmlns:views="clr-namespace:BendingCapacity.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="875"
+		ResizeMode="NoResize">
+	<Window.Background>
+		<ImageBrush ImageSource="Images/tlo_niebieskie.jpg"/>
+	</Window.Background>
+	<Window.Resources>
+	</Window.Resources>
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="85"/>
+			<RowDefinition Height="5"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+		<views:RectangularSectionView Grid.Row="2" 
+									  VerticalAlignment="Center">
+		</views:RectangularSectionView>
+		<Rectangle Fill="White" 
+				   Grid.Row="1"/>
+		<WrapPanel Orientation="Horizontal" 
+				   HorizontalAlignment="Center" 
+				   VerticalAlignment="Center">
+			<Rectangle Fill="Indigo" 
+				   Grid.Row="0" 
+				   Width="150" 
+				   Height="50" 
+				   HorizontalAlignment="Left" 
+				   Margin="10"/>
+			<Rectangle Fill="Orange" 
+				   Grid.Row="0" 
+				   Width="150" 
+				   Height="50" 
+				   HorizontalAlignment="Left" 
+				   Margin="10,0"/>
+			<Rectangle Fill="Green" 
+				   Grid.Row="0" 
+				   Width="150" 
+				   Height="50" 
+				   HorizontalAlignment="Left" 
+				   Margin="10"/>
+			<Rectangle Fill="Crimson" 
+				   Grid.Row="0" 
+				   Width="150" 
+				   Height="50" 
+				   HorizontalAlignment="Left" 
+				   Margin="10"/>
+			<Rectangle Fill="Gray" 
+				   Grid.Row="0" 
+				   Width="150" 
+				   Height="50" 
+				   HorizontalAlignment="Left" 
+				   Margin="10"/>
+		</WrapPanel>
+		<Image Source="Images/console.png" 
+			   Margin="24,21,803,20"/>
+		<Image Source="Images/physics.png" 
+			   Margin="196,21,631,20"/>
+		<Image Source="Images/order_biale.png" 
+			   Margin="366,21,461,20"/>
+		<Image Source="Images/grzegorz.png" 
+			   Margin="537,21,290,20"/>
+		<Image Source="Images/dumbbell.png" 
+			   Margin="709,21,118,20"/>
+
+		<Label Foreground="White" 
+			   Content="Label" 
+			   Margin="93,32,726,29"/>
+		<Label Foreground="White" 
+			   Content="Label" 
+			   Margin="261,32,558,29"/>
+		<Label Foreground="White" 
+			   Content="Label" 
+			   Margin="432,32,387,29"/>
+		<Label Foreground="White" 
+			   Content="Label" 
+			   Margin="600,32,219,29"/>
+		<Label Foreground="White" 
+			   Content="Label" 
+			   Margin="774,32,45,29"/>
+
+	</Grid>
+</Window>

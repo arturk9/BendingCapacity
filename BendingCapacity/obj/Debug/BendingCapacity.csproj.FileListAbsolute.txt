@@ -1,0 +1,37 @@
+c:\users\artur\documents\visual studio 2015\Projects\BendingCapacity\BendingCapacity\bin\Debug\BendingCapacity.exe.config
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\bin\Debug\BendingCapacity.exe
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\bin\Debug\BendingCapacity.pdb
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\BendingCapacity.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\MainWindow.g.cs
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\Views\RectangularSectionView.g.cs
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\App.g.cs
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\BendingCapacity_MarkupCompile.cache
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\BendingCapacity_MarkupCompile.lref
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\MainWindow.baml
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\Views\RectangularSectionView.baml
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\BendingCapacity.g.resources
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\BendingCapacity.Properties.Resources.resources
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\BendingCapacity.csproj.GenerateResource.Cache
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\BendingCapacity.exe
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\BendingCapacity.pdb
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity\BendingCapacity\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\bin\Debug\BendingCapacity.exe.config
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\BendingCapacity.exe
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\BendingCapacity.pdb
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\bin\Debug\BendingCapacity.exe
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\bin\Debug\BendingCapacity.pdb
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\BendingCapacity.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\MainWindow.g.cs
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\Views\RectangularSectionView.g.cs
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\App.g.cs
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\BendingCapacity_MarkupCompile.cache
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\BendingCapacity_MarkupCompile.lref
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\MainWindow.baml
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\Views\RectangularSectionView.baml
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\BendingCapacity.g.resources
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\BendingCapacity.Properties.Resources.resources
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - Kopia (4)\BendingCapacity\obj\Debug\BendingCapacity.csproj.GenerateResource.Cache
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - 2016.06.11\BendingCapacity\bin\Debug\BendingCapacity.exe.config
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - 2016.06.11\BendingCapacity\obj\Debug\BendingCapacity.exe
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\BendingCapacity - 2016.06.11\BendingCapacity\obj\Debug\BendingCapacity.pdb

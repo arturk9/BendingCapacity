@@ -292,7 +292,7 @@
 				  Grid.Row="0" 
 				  ItemsSource="{Binding RectangularSectionList, 
 					UpdateSourceTrigger=PropertyChanged}" 
-				  SelectedItem="{Binding SelectedStudent}" 
+				  SelectedItem="{Binding SelectedSection}" 
 				  BorderBrush="{x:Null}" 
 				  Opacity="0.6">
 			<ListView.Background>
